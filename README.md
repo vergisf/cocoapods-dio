@@ -16,7 +16,7 @@
 
 <h2>Materiais de referência:</h2>
 <ul>
-    <li><b>Documentação SwiftPM</b>:
+    <li><b>Documentação</b>:
         <ul><li><a href="https://cocoapods.org/" target="_blank"> CocoaPods</a>.</li></ul>
         <ul><li><a href="https://github.com/WenchaoD/FSCalendar" target="_blank"> FSCalendar</a>.</li></ul>
     </li>
